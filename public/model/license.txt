@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mushroom_ Tree
+* source:	https://sketchfab.com/3d-models/mushroom--tree-2a6a292cad734915bc6d48eb09efa430
+* author:	belhajalimahdi (https://sketchfab.com/Mahdi_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mushroom_ Tree" (https://sketchfab.com/3d-models/mushroom--tree-2a6a292cad734915bc6d48eb09efa430) by belhajalimahdi (https://sketchfab.com/Mahdi_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
